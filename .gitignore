@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/Windows-DX9/64bit/*.dll
+/Windows-DX9/64bit/*.lib
