@@ -12,7 +12,7 @@ For more details, see `readme` for different platforms.
 
 Current Version: **3.82**
 
-- [ ] Windows DX9
+- [x] Windows DX9
 - [ ] FreeMote.NET
 - [ ] Unity
 	- [ ] x86
