@@ -27,6 +27,12 @@ You can use `EmoteConv` ([FreeMote](https://github.com/Project-AZUSA/FreeMote#em
 
 To clarify, we suggest Pure PSB ends with "`pure.psb`".
 
+## LICENSE
+
+**CC BY-NC-ND 4.0** for binaries (.psb;.mmo;.dll;.lib;.exe;.a;.so;.bc;.jslib etc.)
+
+**LGPLv3** for source codes
+
 ---
 
 by Ulysses, wdwxy12345@gmail.com
