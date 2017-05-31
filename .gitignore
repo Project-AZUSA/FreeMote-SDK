@@ -288,3 +288,7 @@ __pycache__/
 *.xsd.cs
 /Windows-DX9/64bit/*.dll
 /Windows-DX9/64bit/*.lib
+/Windows-DX9/*.psb
+/Windows-DX9/*.dll
+/Windows-DX9/*.lib
+/Windows-DX9/*.exe
