@@ -39,7 +39,7 @@ static const float F60THSTOMS = 1000.0f / 60.0f;  // 1/60秒カウントをmsへ
 //------------------------------------------------
 // 画面サイズ
 static const int SCREEN_WIDTH = 1280;
-static const int SCREEN_HEIGHT = 1024;
+static const int SCREEN_HEIGHT = 720;
 int sScreenWidth = SCREEN_WIDTH;
 int sScreenHeight = SCREEN_HEIGHT;
 
