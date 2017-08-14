@@ -13,7 +13,8 @@ For more details, see `readme` for different platforms.
 Current Version: **3.82**
 
 - [x] Windows DX9
-- [ ] FreeMote.NET
+- [x] [FreeMote.NET](https://github.com/Project-AZUSA/FreeMote.NET)
+- [ ] Kirikiri
 - [ ] Unity
 	- [ ] x86
 	- [ ] x64
