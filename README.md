@@ -30,7 +30,7 @@ To clarify, we suggest Pure PSB ends with "`pure.psb`".
 
 ## LICENSE
 
-**CC BY-NC-ND 4.0** for binaries (.psb;.mmo;.dll;.lib;.exe;.a;.so;.bc;.jslib etc.)
+[**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) for binaries (.psb;.mmo;.dll;.lib;.exe;.a;.so;.bc;.jslib etc.)
 
 **LGPLv3** for source codes
 
