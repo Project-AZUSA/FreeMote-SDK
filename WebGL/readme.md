@@ -1,6 +1,6 @@
 # FreeMote WebGL Sample
 
-[Live Demo (github)](https://project-azusa.github.io/) · [Live Demo (gitee)](https://gitee.com/ProjectAZUSA/Project-AZUSA.github.io)
+[Live Demo (github)](https://project-azusa.github.io/) · [Live Demo (gitee)](http://projectazusa.gitee.io/project-azusa.github.io/)
 
 Based on Emote 3.9 WebGL samples.
 
