@@ -14,6 +14,8 @@ Current Version: **3.82**
 
 - [x] Windows DX9
 - [x] [FreeMote.NET](https://github.com/Project-AZUSA/FreeMote.NET)
+- [x] WebGL (v3.9)
+- [ ] Windows DX11
 - [ ] Kirikiri
 - [ ] Unity
 	- [ ] x86
@@ -30,7 +32,7 @@ To clarify, we suggest Pure PSB ends with "`pure.psb`".
 
 ## LICENSE
 
-[**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) for binaries (.psb;.mmo;.dll;.lib;.exe;.a;.so;.bc;.jslib etc.)
+[**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) for binaries (.psb;.mmo;.dll;.lib;.exe;.a;.so;.bc;.jslib;.js etc.)
 
 **LGPLv3** for source codes
 
