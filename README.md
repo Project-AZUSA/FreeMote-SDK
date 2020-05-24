@@ -26,7 +26,7 @@ Current Version: **3.82**
 	
 ## Generate Pure PSB
 
-You can use `EmoteConv` ([FreeMote](https://github.com/Project-AZUSA/FreeMote#emoteconv-freemotetoolsemotepsbconverter)) or `emote_conv` (by @number201724) to convert an encrypted PSB to Pure PSB. `CryptKey`(get from engine lib) is needed for conversion.
+You can use `EmtConvert` ([FreeMote](https://github.com/UlyssesWu/FreeMote#emtconvert-freemotetoolsemtconvert)) or `emote_conv` (by @number201724) to convert an encrypted PSB to Pure PSB. `CryptKey` is needed for conversion.
 
 To clarify, we suggest Pure PSB ends with "`pure.psb`".
 
